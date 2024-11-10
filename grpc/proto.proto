@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option go_package = "handin4/grpc/proto";
+
+service TokenRing {
+    rpc RequestToken (TokenRequest) returns (TokenReply);
+    rpc PassToken (TokenRequest) returns (TokenReply);
+}
+
+message TokenRequest {
+    bool hasToken = 1;
+}
+
+message TokenReply {
+    string message = 1;
+}
+

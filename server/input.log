@@ -1,0 +1,19 @@
+//Node 1
+set CURRENT_NODE=localhost:50051
+set NEXT_NODE=localhost:50052
+set HAS_TOKEN=true
+set NODE_ID=Node1
+
+
+//Node 2
+set CURRENT_NODE=localhost:50052
+set NEXT_NODE=localhost:50053
+set HAS_TOKEN=false
+set NODE_ID=Node2
+
+
+/Node 3
+set CURRENT_NODE=localhost:50053
+set NEXT_NODE=localhost:50051
+set HAS_TOKEN=false
+set NODE_ID=Node3

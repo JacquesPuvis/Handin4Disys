@@ -1,0 +1,104 @@
+
+2024/11/10 11:38:12 Starting server for node localhost:50051
+2024/11/10 11:38:12 Node localhost:50051: Starting with token
+2024/11/10 11:38:12 Node Node 1: Entering Critical Section
+2024/11/10 11:38:13 Starting server for node localhost:50052
+2024/11/10 11:38:14 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:14 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:14 Node Node 2: Entering Critical Section
+2024/11/10 11:38:14 Starting server for node localhost:50053
+2024/11/10 11:38:16 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:16 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:16 Node Node 3: Entering Critical Section
+2024/11/10 11:38:18 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:18 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:18 Node Node 1: Entering Critical Section
+2024/11/10 11:38:20 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:20 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:20 Node Node 2: Entering Critical Section
+2024/11/10 11:38:22 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:22 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:22 Node Node 3: Entering Critical Section
+2024/11/10 11:38:24 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:24 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:24 Node Node 1: Entering Critical Section
+2024/11/10 11:38:26 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:26 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:26 Node Node 2: Entering Critical Section
+2024/11/10 11:38:28 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:28 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:28 Node Node 3: Entering Critical Section
+2024/11/10 11:38:30 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:30 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:30 Node Node 1: Entering Critical Section
+2024/11/10 11:38:32 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:32 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:32 Node Node 2: Entering Critical Section
+2024/11/10 11:38:34 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:34 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:34 Node Node 3: Entering Critical Section
+2024/11/10 11:38:36 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:36 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:36 Node Node 1: Entering Critical Section
+2024/11/10 11:38:38 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:38 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:38 Node Node 2: Entering Critical Section
+2024/11/10 11:38:40 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:40 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:40 Node Node 3: Entering Critical Section
+2024/11/10 11:38:42 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:42 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:42 Node Node 1: Entering Critical Section
+2024/11/10 11:38:44 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:44 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:44 Node Node 2: Entering Critical Section
+2024/11/10 11:38:46 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:46 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:46 Node Node 3: Entering Critical Section
+2024/11/10 11:38:48 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:48 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:48 Node Node 1: Entering Critical Section
+2024/11/10 11:38:50 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:50 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:50 Node Node 2: Entering Critical Section
+2024/11/10 11:38:52 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:52 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:52 Node Node 3: Entering Critical Section
+2024/11/10 11:38:54 Node Node 3: Exiting Critical Section
+2024/11/10 11:38:54 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:38:54 Node Node 1: Entering Critical Section
+2024/11/10 11:38:56 Node Node 1: Exiting Critical Section
+2024/11/10 11:38:56 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:38:56 Node Node 2: Entering Critical Section
+2024/11/10 11:38:58 Node Node 2: Exiting Critical Section
+2024/11/10 11:38:58 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:38:58 Node Node 3: Entering Critical Section
+2024/11/10 11:39:00 Node Node 3: Exiting Critical Section
+2024/11/10 11:39:00 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:39:00 Node Node 1: Entering Critical Section
+2024/11/10 11:39:02 Node Node 1: Exiting Critical Section
+2024/11/10 11:39:02 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:39:02 Node Node 2: Entering Critical Section
+2024/11/10 11:39:04 Node Node 2: Exiting Critical Section
+2024/11/10 11:39:04 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:39:04 Node Node 3: Entering Critical Section
+2024/11/10 11:39:06 Node Node 3: Exiting Critical Section
+2024/11/10 11:39:06 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:39:06 Node Node 1: Entering Critical Section
+2024/11/10 11:39:08 Node Node 1: Exiting Critical Section
+2024/11/10 11:39:08 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:39:08 Node Node 2: Entering Critical Section
+2024/11/10 11:39:10 Node Node 2: Exiting Critical Section
+2024/11/10 11:39:10 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:39:10 Node Node 3: Entering Critical Section
+2024/11/10 11:39:12 Node Node 3: Exiting Critical Section
+2024/11/10 11:39:12 Node Node 3: Passing token to next node localhost:50051
+2024/11/10 11:39:12 Node Node 1: Entering Critical Section
+2024/11/10 11:39:14 Node Node 1: Exiting Critical Section
+2024/11/10 11:39:14 Node Node 1: Passing token to next node localhost:50052
+2024/11/10 11:39:14 Node Node 2: Entering Critical Section
+2024/11/10 11:39:16 Node Node 2: Exiting Critical Section
+2024/11/10 11:39:16 Node Node 2: Passing token to next node localhost:50053
+2024/11/10 11:39:16 Node Node 3: Entering Critical Section
+2024/11/10 11:39:18 Node Node 3: Exiting Critical Section
+
